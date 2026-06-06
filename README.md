@@ -1,5 +1,4 @@
 # spottingtrains
-Regolamento di Spotting Trains
 
 
 Tra il 2023 e il 2024, alcuni amici ed io abbiamo ideato e organizzato un gioco che prevedeva una rincorsa tra squadre in tutta Italia spostandoci esclusivamente con i treni regionali compresi nell'offerta ItaliaInTour di Trenitalia.
